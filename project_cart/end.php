@@ -64,5 +64,6 @@ mysqli_query($db_link,$sqlempty);
 
 ?>
 <a href="client.php"><font size='4' color="snow" align="center"><b>再回商城逛逛</b></font></a></br>
+<a href="UI1.html"><font size='4' color="snow" align="center"><b>回首頁</b></font></a></br>
 </body>
 </html>

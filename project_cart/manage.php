@@ -169,6 +169,7 @@ echo update();
 </select>
 <input type='submit' name="order" value='出貨' /></br>
 </form>
+<a href="UI1.html"><font size='4' color="snow" align="center"><b>回首頁</b></font></a></br>
 </body>
 </html>
 
